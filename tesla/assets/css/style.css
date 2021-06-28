@@ -1,0 +1,22 @@
+/* FONTES */
+@font-face {
+    font-family: GothamMedium;
+    src: url(/tesla/assets/fonts/GothamMedium.otf);
+}
+@font-face {
+    font-family: GothamBookRegular;
+    src: url(/tesla/assets/fonts/GothamBookRegular.otf);
+}
+body{
+    font-family: 'GothamMedium', Arial, Helvetica, sans-serif;
+    font-size: 14;
+    margin: 0;
+}
+/* HEADER */
+
+header{
+    display: flex;
+    justify-content:space-between;
+    height: 50px;
+    background-color: firebrick;
+}
