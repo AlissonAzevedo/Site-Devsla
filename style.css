@@ -92,7 +92,7 @@ header .menu--icon div{
 /* MAIN*/
 
 main{
-    background-image: url(../images/bg.jpg);
+    background-image: url(./images/bg.jpg);
     background-size: cover;
     background-position:center;
     height: 100vh;
